@@ -63,7 +63,7 @@ cd C:\Users\YourUsername\Downloads\my_chatbot_project
 # Example for macOS/Linux
 cd ~/Downloads/my_chatbot_project
 
-(Replace YourUsername and my_chatbot_project with your actual path and folder name).
+(C:\Users\user\Downloads\my_chatbot).
 
 Launch the Streamlit App:
 Run the following command:
