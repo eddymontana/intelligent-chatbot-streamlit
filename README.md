@@ -90,6 +90,9 @@ Example Interactions:
 
 "Bye" / "See you later"
 
+![image](https://github.com/user-attachments/assets/91fe2d75-036d-4900-a909-f25453327f23)
+
+
 Project Structure
 my_chatbot.py: The main Python script containing all the chatbot logic, NLP model training, and Streamlit application code.
 
