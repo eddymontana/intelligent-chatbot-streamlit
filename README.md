@@ -92,6 +92,9 @@ Example Interactions:
 
 ![image](https://github.com/user-attachments/assets/91fe2d75-036d-4900-a909-f25453327f23)
 
+![image](https://github.com/user-attachments/assets/847c5086-f3b7-42fc-b354-8b62e74ec86a)
+
+
 
 Project Structure
 my_chatbot.py: The main Python script containing all the chatbot logic, NLP model training, and Streamlit application code.
