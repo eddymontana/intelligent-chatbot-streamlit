@@ -94,6 +94,11 @@ Example Interactions:
 
 ![image](https://github.com/user-attachments/assets/847c5086-f3b7-42fc-b354-8b62e74ec86a)
 
+![image](https://github.com/user-attachments/assets/31ec7276-71f4-46a6-8b0b-11a17dcd7f1d)
+
+
+
+
 
 
 Project Structure
