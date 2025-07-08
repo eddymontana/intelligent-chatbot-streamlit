@@ -96,6 +96,9 @@ Example Interactions:
 
 ![image](https://github.com/user-attachments/assets/31ec7276-71f4-46a6-8b0b-11a17dcd7f1d)
 
+![image](https://github.com/user-attachments/assets/7b07bdc3-90d0-46ea-b308-a25505b4b118)
+
+
 
 
 
